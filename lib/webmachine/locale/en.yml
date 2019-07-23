@@ -1,7 +1,7 @@
 en:
   webmachine:
     errors:
-      standard_body: "<!DOCTYPE html><html>\n
+      standard_body: "<!DOCTYPE html>\n
         <head><title>%{title}</title></head>\n
         <body><h1>%{title}</h1>\n
         <p>%{message}</p>\n
